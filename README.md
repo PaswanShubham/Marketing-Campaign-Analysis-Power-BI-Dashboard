@@ -1,6 +1,6 @@
 # Marketing Campaign Analysis — Power BI Dashboard
 
-<img src="dashboard.png" alt="Marketing Campaign Analysis Dashboard preview" width="900">
+<img src="Dashboard.png" alt="Marketing Campaign Analysis Dashboard preview" width="900">
 
 ## Overview
 End-to-end Power BI dashboard to evaluate digital marketing performance across channels and time. It tracks spend efficiency and funnel health, and helps teams compare categories with interactive slicers.
